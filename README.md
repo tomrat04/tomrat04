@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomrat04/tomrat04/output/github-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/tomrat04/tomrat04/output/github-snake.svg">
+</picture>
+
 <!--
 **tomrat04/tomrat04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
